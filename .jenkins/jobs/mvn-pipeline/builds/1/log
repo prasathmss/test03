@@ -1,0 +1,32 @@
+Started by an SCM change
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4Ol73AGAou7WSMF8O+Zy5dVa3BHumh7rKakbH5M5wxrXAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4Fw0gjifRgvKgHG3ORqlMyt/bz2u8FeqBC9d5YRj/LmVAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4OabfLJa36XLGE4S9rHNZcMN6VKyYir0fykXsTJ7Cmk8AAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /root/.jenkins/workspace/mvn-pipeline
+[8mha:////4I0+e6HuooLQX7t83r7X1SZ2s5twHtDl9bSUlKAzO9BRAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4NezncdOipJUuGvq2D/EZCFoT61PSvZKkxs7uaPsv279AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaGWsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gdpL1fxvAAAAA==[0m[Pipeline] git
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/prasathmss/jenkins-devops-062019.git
+ > git init /root/.jenkins/workspace/mvn-pipeline # timeout=10
+Fetching upstream changes from https://github.com/prasathmss/jenkins-devops-062019.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/prasathmss/jenkins-devops-062019.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/prasathmss/jenkins-devops-062019.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/prasathmss/jenkins-devops-062019.git # timeout=10
+Fetching upstream changes from https://github.com/prasathmss/jenkins-devops-062019.git
+ > git fetch --tags --progress https://github.com/prasathmss/jenkins-devops-062019.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision fcde15708fcf9dce2b1c667d39c348eecec3b1f9 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f fcde15708fcf9dce2b1c667d39c348eecec3b1f9
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b master fcde15708fcf9dce2b1c667d39c348eecec3b1f9
+Commit message: "Atmosphere - ChatBot Project"
+First time build. Skipping changelog.
+[8mha:////4J3qImNj86KsBzYF11VD6ETHtUUQp1haYuboOPJrZY6nAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGBtjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j8OXFZ7vAAAAA==[0m[Pipeline] }
+[8mha:////4PybQoBKudmdZxaBrOGAC6ERkEuN98cEStTcK2xZ3FG9AAAAox+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWFgYK1tC4wmQRYQl/7PAult5Iq/mHSRuYuUkk8yb5r3esM4JTpQs9wZ7h1k7HsNo6+ITpf4WaOKerlwTZgqGSzNJ6sx5QUnFwBLWwErAxqAOlB3aAlvh1UO1QaFtLyXV7yigcd0AT2CimotK5Qtzgt197DLhz/NXAHOMBdihdv8BHeBS2LwAAAA=[0m[Pipeline] // node
+[8mha:////4Gf70QBziGMGHlsz0UOCKDsxTaSiajrzf6QHol6MFK8iAAAAox+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQSbWJkYK1tC4wmQRYQl/7PAult5Iq/mHSRuYuUkk8yb5r3esM4JTpQs9wZ7h1k7HsNo6+ITpf4WaOKerlwTZgqGSzNJ6sx5QUnFwBLWwErAxqAOlB3aAlvh1UO1QaFtLyXV7yigcd0AT2CimotK5Qtzgt197DLhz/NXAHOMBdihdv8BWkcFLbwAAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

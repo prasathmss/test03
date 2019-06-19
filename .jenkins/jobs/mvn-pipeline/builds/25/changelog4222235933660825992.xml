@@ -1,0 +1,11 @@
+commit 792d04377ff507c4b1f626d7ff9f9327a7f826d4
+tree bd83a509632d917c24eba03ad6927484b7ad93ec
+parent 2014434d0e7e4ce40316295a8f94bcaaae4dbbbf
+author Amit Vashist <amitvashist7@gmail.com> 2019-06-18 11:23:29 +0000
+committer Amit Vashist <amitvashist7@gmail.com> 2019-06-18 11:23:29 +0000
+
+    Pipeline-as-code
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 9856976b6c598f4919ed7449ab646087b148a585 A	pipeline-as-code/Jenkinsfile

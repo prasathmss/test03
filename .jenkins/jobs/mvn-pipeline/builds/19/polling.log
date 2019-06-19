@@ -1,0 +1,10 @@
+Started on Jun 18, 2019 11:05:24 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 62f653543ffdcd7177bb7288c6c295f131bce92c (refs/remotes/origin/master)
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h https://github.com/amitvashist7/jenkins-devops-062019.git # timeout=10
+Found 1 remote heads on https://github.com/amitvashist7/jenkins-devops-062019.git
+[poll] Latest remote head revision on refs/heads/master is: 2014434d0e7e4ce40316295a8f94bcaaae4dbbbf
+Done. Took 1.5 sec
+Changes found

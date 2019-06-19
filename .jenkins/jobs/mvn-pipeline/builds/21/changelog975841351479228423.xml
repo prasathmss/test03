@@ -1,0 +1,11 @@
+commit 2014434d0e7e4ce40316295a8f94bcaaae4dbbbf
+tree 7387c12c6e8d079528cb1166ad801301404f1141
+parent 62f653543ffdcd7177bb7288c6c295f131bce92c
+author Amit Vashist <amitvashist7@gmail.com> 2019-06-18 11:04:44 +0000
+committer Amit Vashist <amitvashist7@gmail.com> 2019-06-18 11:04:44 +0000
+
+    Pipeline-Parallel-Jobs
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 8a84a663c47ae8a12e0c6b713434a64dc7cfd007 A	pipeline/parallel-Jobs

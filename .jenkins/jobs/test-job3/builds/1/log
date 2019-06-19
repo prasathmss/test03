@@ -1,0 +1,10 @@
+Started by user [8mha:////4AlCk3+0bdNxAjUfBXhWvXkM++QZOSWFA7J/OjTJq4k6AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZu/dLi1CL9xJTczDwAHhAahcAAAAA=[0mprasath
+Running as SYSTEM
+Building in workspace /root/.jenkins/workspace/test-job3
+[test-job3] $ /bin/sh -xe /tmp/jenkins2024861373879333958.sh
++ time
+Usage: time [-apvV] [-f format] [-o file] [--append] [--verbose]
+       [--portability] [--format=format] [--output=file] [--version]
+       [--quiet] [--help] command [arg...]
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
