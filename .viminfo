@@ -19,13 +19,20 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	"]
 
 # File marks:
-'0  1  5  /tmp/a.txt
-'1  1  17  ~/myproject/cc.txt
-'2  2  7  ~/myproject/Hello_word.txt
+'0  5  47  ~/dockerfile
+'1  1  10  ~/index.html
+'2  1  5  /tmp/a.txt
+'3  1  17  ~/myproject/cc.txt
+'4  2  7  ~/myproject/Hello_word.txt
 
 # Jumplist (newest first):
+-'  5  47  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  1  10  ~/index.html
 -'  1  5  /tmp/a.txt
 -'  1  17  ~/myproject/cc.txt
 -'  2  7  ~/myproject/Hello_word.txt
@@ -37,8 +44,97 @@
 -'  1  0  ~/myproject/Hello_word.txt
 -'  2  7  ~/myproject/Hello_word.txt
 -'  1  0  ~/myproject/Hello_word.txt
+-'  1  5  /tmp/a.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  5  /tmp/a.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  5  /tmp/a.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  10  ~/index.html
+-'  1  5  /tmp/a.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  5  /tmp/a.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  5  /tmp/a.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  5  /tmp/a.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  1  17  ~/myproject/cc.txt
+-'  2  7  ~/myproject/Hello_word.txt
+-'  1  0  ~/myproject/Hello_word.txt
+-'  2  7  ~/myproject/Hello_word.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/dockerfile
+	"	5	47
+	^	5	48
+	.	5	47
+	+	5	47
+
+> ~/index.html
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > /tmp/a.txt
 	"	1	5
